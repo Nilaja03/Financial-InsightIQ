@@ -1,3 +1,4 @@
+### !! Scroll down to see the results !!
 # Financial-InsightIQ
 Financial InsightIQ leverages cutting-edge machine learning techniques to provide precise predictions across multiple financial domains. Designed to be accessible to everyday users, this suite simplifies complex financial predictions, making them understandable and actionable for non-experts. The project encompasses five key areas: medical insurance premiums, car prices, house prices, stock trends, and loan statuses. By integrating various machine learning algorithms, Financial InsightIQ offers a robust solution tailored to meet diverse financial needs.
 
